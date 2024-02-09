@@ -3,5 +3,6 @@ philosophers.txt
 read_philosophers.py
 write_philosophers.py
 append_philosophers.py
-*read*
+read_clients.py
+read_csv.py
 excep*
